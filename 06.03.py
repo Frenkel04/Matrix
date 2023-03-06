@@ -1,4 +1,4 @@
-"""import genericpath
+import genericpath
 import random
 
 class Person:
@@ -31,6 +31,5 @@ class Person:
 
 def main():
     a = Person("Masha", 0, 12, 3)
-    a.grades([-1, 2, 3])""'
-    
+    a.grades([-1, 2, 3])
     
